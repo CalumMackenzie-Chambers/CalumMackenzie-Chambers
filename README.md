@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Calum Mackenzie-Chambers</h1>
-<h3 align="center">An aspiring software / game developer from England</h3>
+<h3 align="center">A full stack developer from Southampton, England</h3>
 
 - 🔭 I’m currently working on **A Meal Planner Web App**
 
